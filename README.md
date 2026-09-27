@@ -89,7 +89,7 @@ The two 7-segment displays share the segment lines connected to PORTC.
 
 RA4 and RA5 are used to alternate between the units and tens digits. By switching between the displays rapidly, both digits appear continuously illuminated to the human eye.
 
-<img width="2048" height="946" alt="image" src="https://github.com/user-attachments/assets/d9cf4e5b-d508-41a8-a068-ee108460bfc1" />
+<img width="1024" height="473" alt="image" src="https://github.com/user-attachments/assets/d9cf4e5b-d508-41a8-a068-ee108460bfc1" />
 
 ## C and Assembly Investigation
 
