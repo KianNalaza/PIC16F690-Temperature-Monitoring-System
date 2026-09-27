@@ -108,7 +108,7 @@ while (multiplier > 0) {
 
 The generated assembly demonstrated how high-level operations are implemented using instructions such as `MOVLW`, `MOVWF`, `ADDWF`, `SUBWF`, `BTFSS`, `BTFSC`, and `GOTO`.
 
-<img width="455" height="393" alt="image" src="https://github.com/user-attachments/assets/e4966409-70d4-46d9-916e-ae401bf42477" />
+<img width="682" height="595" alt="image" src="https://github.com/user-attachments/assets/e4966409-70d4-46d9-916e-ae401bf42477" />
 
 This highlighted the trade-off between the readability of high-level C and the greater control and potential efficiency of directly written assembly.
 
