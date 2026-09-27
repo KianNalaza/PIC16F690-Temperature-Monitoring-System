@@ -2,6 +2,8 @@
 
 An embedded temperature monitoring system built using a **PIC16F690 microcontroller**, **LM35 temperature sensor**, **10-bit ADC**, and **multiplexed 7-segment displays**.
 
+<img width="2048" height="946" alt="image" src="https://github.com/user-attachments/assets/56f141d8-2e55-4c0e-897c-dd802d82c46f" />
+
 ## Overview
 
 This project explores analog-to-digital conversion and sensor interfacing using the PIC16F690 microcontroller.
