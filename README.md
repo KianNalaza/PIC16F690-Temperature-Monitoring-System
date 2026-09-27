@@ -42,6 +42,9 @@ The LM35 produces approximately **10 mV/°C**, allowing the temperature to be ca
 
 A measured reference voltage of **4.95 V** was used during testing.
 
+<img width="1563" height="617" alt="image" src="https://github.com/user-attachments/assets/12aea255-6470-4f77-b954-834d9663c61e" />
+
+
 ## Hardware
 
 - PIC16F690 microcontroller
@@ -86,6 +89,8 @@ The two 7-segment displays share the segment lines connected to PORTC.
 
 RA4 and RA5 are used to alternate between the units and tens digits. By switching between the displays rapidly, both digits appear continuously illuminated to the human eye.
 
+<img width="1563" height="617" alt="image" src="https://github.com/user-attachments/assets/421036ec-755a-4872-8ade-cc5df95afe8f" />
+
 ## C and Assembly Investigation
 
 A second part of the project investigated how a simple C multiplication algorithm is translated into PIC assembly.
@@ -102,6 +107,8 @@ while (multiplier > 0) {
 ```
 
 The generated assembly demonstrated how high-level operations are implemented using instructions such as `MOVLW`, `MOVWF`, `ADDWF`, `SUBWF`, `BTFSS`, `BTFSC`, and `GOTO`.
+
+<img width="911" height="787" alt="image" src="https://github.com/user-attachments/assets/e4966409-70d4-46d9-916e-ae401bf42477" />
 
 This highlighted the trade-off between the readability of high-level C and the greater control and potential efficiency of directly written assembly.
 
