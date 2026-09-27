@@ -42,7 +42,7 @@ The LM35 produces approximately **10 mV/°C**, allowing the temperature to be ca
 
 A measured reference voltage of **4.95 V** was used during testing.
 
-<img width="1563" height="617" alt="image" src="https://github.com/user-attachments/assets/12aea255-6470-4f77-b954-834d9663c61e" />
+<img width="781" height="308" alt="image" src="https://github.com/user-attachments/assets/12aea255-6470-4f77-b954-834d9663c61e" />
 
 
 ## Hardware
